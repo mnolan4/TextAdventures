@@ -1,15 +1,15 @@
 Playable terminal-based text adventures written in Python.
 
-Commands include:
+<p>Commands include:
 
 <p>go <direction>
 <p>look
 <p>take <item>
-use <item>
-talk <npc>
-inventory
-help
-quit
+<p>use <item>
+<p>talk <npc>
+<p>inventory
+<p>help
+<p>quit
 
-Commands may expand as items are collected.
+<p>Commands may expand as items are collected.
 
