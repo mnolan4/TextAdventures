@@ -2,9 +2,9 @@ Playable terminal-based text adventures written in Python.
 
 Commands include:
 
-go <direction>
-look
-take <item>
+<p>go <direction>
+<p>look
+<p>take <item>
 use <item>
 talk <npc>
 inventory
